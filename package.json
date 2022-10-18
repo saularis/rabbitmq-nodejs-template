@@ -1,0 +1,24 @@
+{
+  "name": "rabbitmq-nodejs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saularis/rabbitmq-nodejs-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saularis/rabbitmq-nodejs-template/issues"
+  },
+  "homepage": "https://github.com/saularis/rabbitmq-nodejs-template#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2"
+  }
+}
